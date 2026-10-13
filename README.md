@@ -4,7 +4,7 @@ Experimental local-first IP camera firmware project for the **GV-T23-PTZ-MAIN-V2
 
 > Status: **hardware test / Stage2**. This is not yet the final minimal MyIPCam OS.
 
-Languages: [Русский](docs/i18n/README.ru.md) · [中文](docs/i18n/README.zh-CN.md) · [Српски](docs/i18n/README.sr.md) · [Беларуская](docs/i18n/README.be.md) · [Қазақша](docs/i18n/README.kk.md) · [فارسی](docs/i18n/README.fa.md)
+Languages: [Русский](docs/i18n/README.ru.md) · [中文](docs/i18n/README.zh-CN.md) · [Српски](docs/i18n/README.sr.md) · [Беларуская](docs/i18n/README.be.md) · [Қазақша](docs/i18n/README.kk.md)
 
 ## What this project proves
 
