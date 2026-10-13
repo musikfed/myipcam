@@ -92,3 +92,9 @@ These are generated UI documentation previews, not proof of a live camera frame.
 ## Search terms
 
 MyIPCam, IP camera firmware, Ingenic T23, T23N camera, GV-T23-PTZ-MAIN-V2.0, microSD boot camera, SD card firmware, SPI NOR replacement experiment, SC2336, ATBM6012BX, PTZ camera, local camera without cloud.
+
+
+## Контакты / Contact
+
+- Email: [feudor.lab@yandex.ru](mailto:feudor.lab@yandex.ru)
+- Telegram: [@Feudorlab1](https://t.me/Feudorlab1)
