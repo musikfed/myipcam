@@ -115,4 +115,3 @@ MyIPCam, IP camera firmware, Ingenic T23, T23N camera, GV-T23-PTZ-MAIN-V2.0, mic
 
 [**Architecture and multilingual presentation**](docs/showcase/README.md)
 
-![myipcam architecture](docs/showcase/overview.svg)
