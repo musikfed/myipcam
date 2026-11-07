@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0",
+  "id": "myipcam",
+  "title": "MyIPCam OS 3.1",
+  "version": "—",
+  "description": "Experimental local-first IP camera firmware project for the GV-T23-PTZ-MAIN-V2.0 board family.",
+  "subtitle": "T23/T23N microSD boot test",
+  "tags": [
+    "HTML"
+  ],
+  "visibility": "public",
+  "publication": "publish_on_merge",
+  "public_private_approved": false,
+  "display_mode": "diagram",
+  "status": "Черновик — ожидает проверки",
+  "repo_url": "https://github.com/musikfed/myipcam",
+  "screenshots": [],
+  "cover": "vitrine/generated/cover.svg",
+  "cover_type": "schematic-not-screenshot",
+  "screenshot_source": "not-available"
+}
